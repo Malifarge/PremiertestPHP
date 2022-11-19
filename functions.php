@@ -7,7 +7,7 @@ function hello($firstName, $lastName, int $fruit){
 
 function somme (int $a, int $b){
     $Somme = $a + $b;
-    return $Somme;
+    return "<p>$Somme</p>";
 }
 
 ?>
