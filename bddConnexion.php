@@ -1,5 +1,4 @@
 <?php
-    $user = 'root';
 
     include "passwordBDD.php";
 
